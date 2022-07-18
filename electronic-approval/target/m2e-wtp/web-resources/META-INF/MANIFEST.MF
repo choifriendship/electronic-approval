@@ -1,9 +1,5 @@
 Manifest-Version: 1.0
-<<<<<<< HEAD
 Built-By: MIT-302-21
-=======
-Built-By: MIT-302-22
->>>>>>> origin/main
 Build-Jdk: 1.8.0_333
 Created-By: Maven Integration for Eclipse
 
