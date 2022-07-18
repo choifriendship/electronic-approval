@@ -1,5 +1,10 @@
 Manifest-Version: 1.0
+<<<<<<< HEAD
 Built-By: MIT-302-21
 Build-Jdk: 1.8.0_333
+=======
+Built-By: time5
+Build-Jdk: 17.0.3
+>>>>>>> origin/jung
 Created-By: Maven Integration for Eclipse
 
