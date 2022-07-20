@@ -21,9 +21,12 @@
 		<beans:property name="suffix" value=".jsp" />
 	</beans:bean>
 	
+<<<<<<< HEAD
 	<resources mapping="/assets/**" location="/resources/assets/" /> 
 <resources mapping="/ad_assets/**" location="/resources/ad_assets/" />
 	
+=======
+>>>>>>> b71faeb05018dbf885a015684782bd0e20bc782e
 	<context:component-scan base-package="com.groupware.controller" />
 	
 	
