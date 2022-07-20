@@ -1,13 +1,13 @@
 # 📒 electronic-approval
 
-- Operating System : Windows 11 Home
-- Programming Language : JAVA (JDK1.8.0) JRE 14.0.2
-- DBMS : ORACLE
-- Web Application Server : Tomcat 9.0.64
+- 운영체제 : Windows 11 Home
+- 프로그래밍 언어 : JAVA (JDK1.8.0) JRE 14.0.2
+- 데이터베이스 관리 시스템 : ORACLE
+- 웹 애플리케이션 서버 : Tomcat 9.0.64
 - 형상관리 : GitHub (https://github.com/choifriendship/electronic-approval), Source Tree
-- Framework : Spring 5.0.7
-- Technology : JDBC, HTML, CSS, Javascript
-- Tool : STS3, eXERD, sqldevelopr
+- 프레임워크 : Spring 5.0.7
+- 개발 언어 : JDBC, HTML, CSS, Javascript
+- 개발 환경 : STS3, eXERD, sqldevelopr
 
 
 ## ✏️ 팀 프로젝트 PPT
