@@ -10,10 +10,10 @@
 - Tool : STS3, eXERD, sqldevelopr
 
 
-## 📝 팀 프로젝트 PPT
+## ✏️ 팀 프로젝트 PPT
 
 
-### ✏️ 전자결재 팀 프로젝트 제안 (1차)
+### 📝 전자결재 팀 프로젝트 제안 (1차)
 
 ![Slide1](https://user-images.githubusercontent.com/101532396/179870754-03eaf807-0c10-495c-a473-c66b1eef0c12.jpg)
 
@@ -37,7 +37,7 @@
 
 
 
-### ✏️ 전자결재 프로젝트 요구정의서, 화면설계서, 데이터베이스 설계 (2차)
+### 📝 전자결재 프로젝트 요구정의서, 화면설계서, 데이터베이스 설계 (2차)
 
 ![슬라이드1](https://user-images.githubusercontent.com/101532396/179868946-794f3ad4-b085-4faa-b77b-fa16ccb36be1.JPG)
 
