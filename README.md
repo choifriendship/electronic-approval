@@ -1,5 +1,20 @@
 # electronic-approval
 
+
+- 전자결재 팀 프로젝트 제안 (1차)
+![Slide1](https://user-images.githubusercontent.com/101532396/179870754-03eaf807-0c10-495c-a473-c66b1eef0c12.jpg)
+![Slide2](https://user-images.githubusercontent.com/101532396/179870762-ffd6e4aa-d8c9-46b3-9ff9-c1bb6324f5a8.jpg)
+![Slide3](https://user-images.githubusercontent.com/101532396/179870767-5ee7d4b5-8f8e-4d0f-9b46-e2f3c485aa07.jpg)
+![Slide4](https://user-images.githubusercontent.com/101532396/179870773-51604a3a-559d-4502-aa19-6189a9c8addc.jpg)
+![Slide5](https://user-images.githubusercontent.com/101532396/179870775-d0eb1508-2614-45ab-a16e-5dba2a84712b.jpg)
+![Slide6](https://user-images.githubusercontent.com/101532396/179870777-a85c92cb-b380-48d7-bb10-effabae79ff7.jpg)
+![Slide7](https://user-images.githubusercontent.com/101532396/179870779-4e605a9e-3417-45f4-9530-2bf84b5a9e7c.jpg)
+![Slide8](https://user-images.githubusercontent.com/101532396/179870782-d4e91f60-df66-4134-971c-8717c583879c.jpg)
+![Slide9](https://user-images.githubusercontent.com/101532396/179870787-85351c46-c19d-4d2b-8181-d6b233f7a76b.jpg)
+![Slide10](https://user-images.githubusercontent.com/101532396/179870789-0cbd2fed-d4ee-4972-9bdf-0d50c9fbf464.jpg)
+
+
+
 - 전자결재 프로젝트 요구정의서, 화면설계서, 데이터베이스 설계 (2차)
 ![슬라이드1](https://user-images.githubusercontent.com/101532396/179868946-794f3ad4-b085-4faa-b77b-fa16ccb36be1.JPG)
 ![슬라이드2](https://user-images.githubusercontent.com/101532396/179868948-36f3d5c7-f7ad-45b0-97a8-8049b2c299cf.JPG)
